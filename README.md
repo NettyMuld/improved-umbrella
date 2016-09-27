@@ -5,7 +5,7 @@
 
 ## retsept
 - nimi
--pilt
+- pilt
 - valmistamise juhend
 - portsjonite arv
 - valmistamise aeg
