@@ -6,10 +6,11 @@
 ## retsept
 - nimi
 - pilt
-- valmistamise juhend
-- portsjonite arv
-- valmistamise aeg
-- kategooria
+- kirjeldus
+- valmistamise-juhend
+- portsjonite-arv
+- valmistamise-aeg
+- kategooriad
 
 
 ### koostis
